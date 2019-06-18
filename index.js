@@ -26,6 +26,6 @@ return "FUNKY!"
   
 // We want to set theFunk equal to "Funky!" using our funkyFunction.
 // NOTE: you only need to modify the code below this line.
-var theFunk = funkyFunction('FUNKY!')
+var theFunk = funkyFunction()
 
 theFunk('FUNKY!');
